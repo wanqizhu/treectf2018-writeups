@@ -17,7 +17,7 @@ This is inspired by first noticing that each character in `pies` map to a weird-
 From there, it's just a matter of playing around with properties of pi.
 
 
-[Full code here.](/debug/life_of_pi_explained.py)
+[Full code here.](debug/life_of_pi_explained.py)
 
 ```python
 
