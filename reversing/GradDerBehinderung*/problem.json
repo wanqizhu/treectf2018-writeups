@@ -1,0 +1,10 @@
+{
+"name": "Grad Der Behinderung",
+"score": 40,
+"category": "Reversing",
+"grader": "reversing/GradDerBehinderung/grader.py",
+"description": "It's just a <a href='/problem-static/reversing/GradDerBehinderung/GradDerBehinderung.zip'>Genetically Designed Bug!</a>",
+"threshold": 0,
+"weightmap": {},
+"hint": "<a href='https://www.gnu.org/software/gdb/'>gdb</a>. This code is kindly compiled with debugger flags."
+}

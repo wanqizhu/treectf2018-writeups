@@ -1,0 +1,2 @@
+User-agent: *
+Disallow: /71b301sz8402.html

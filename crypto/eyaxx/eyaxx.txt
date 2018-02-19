@@ -1,0 +1,56 @@
+You wake up in a dark room with a blasting headache. 
+After exploring around and finally fumbling upon the light switch, 
+you see the following on the board in front of you:
+
+1 x
+2 y
+3 ax
+4 ey
+5 ex
+6 yax
+7 yaxx
+8 iy
+9 ix
+10 yex
+11 yexx
+12 eyax
+13 eyaxx
+14 yayaxx
+15 yayaxxx
+16 oy
+17 ox
+18 yix
+19 yixx
+20 eyex
+21 eyexx
+22 yayexx
+23 yayexxx
+24 iyax
+25 iyaxx
+26 yeyaxx
+27 yeyaxxx
+28 eyayaxx
+29 eyayaxxx
+30 yayayaxxx
+31 yayayaxxxx
+32 uy
+33 ux
+34 yox
+35 yoxx
+36 eyix
+37 eyixx
+38 yayixx
+39 yayixxx
+40 iyex
+420 eyiyeyaxxx
+1024 uuy
+1337 iyayayiyexxxxx
+1729 uayayeyaxxxx
+
+
+
+You see a guard outside and bangs on the window, but his blank stare refuses to move no matter what you say. 
+Finally, he points at the floor, on which you notice the following message. What is the magic phrase you must say to escape?
+
+
+eyeyayaxxx yiyayaxxx eyiyaxxx eyiyaxxx yuxx eyeyexx yayoxx yeyayayaxxxxx eyiyaxxx iyayayaxxxx uyaxx iyayayaxxx iyayayaxxx eyayayaxxxx eyoxx eyayeyaxxx eyiyaxxx oyayaxx iyeyaxx uyaxx yayayeyaxxxx eyeyayaxxx iyayexxx yayayeyaxxxxx eyayeyaxxx yayayeyaxxxxx yayixx iyayayaxxx yayayayexxxxx iyayayaxxx eyayayayaxxxxx

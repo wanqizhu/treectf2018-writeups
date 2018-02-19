@@ -1,0 +1,8 @@
+{"name": "PHP Form",
+	"score": 40,
+	"category": "Web",
+	"grader": "web/phpForm/grader.py",
+	"description": "Can you find the flag on <a href='/problem-static/web/phpForm/index.php' target='_blank'>this webpage</a>?",
+	"threshold": 0,
+	"weightmap": {},
+	"hint": "You somehow need to set the input to the correct option..."}

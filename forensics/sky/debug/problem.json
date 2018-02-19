@@ -1,0 +1,10 @@
+{
+"name": "A Sky Full of Stars",
+"score": 70,
+"category": "Forensics",
+"grader": "forensics/sky/grader.py",
+"description": "You see a sky, you see a <a href='/problem-static/misc/sky/sky_map.jpg' target='_blank'>sky full of stars</a>... but what do you <a href='/problem-static/misc/sky/sky_key.txt' target='_blank'>not see?</a>",
+"threshold": 0,
+"weightmap": {},
+"hint": "If the stars are too bright, try hiding them to see what's truly there."
+}
