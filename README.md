@@ -5,14 +5,15 @@ TreeCTF ran as part of [Treehacks 2018](https://treehacks.com) on Feb 17th, 2018
 
 ## Problems
 
-- (Crypto)[Crypto]
-  - (Attack at -3)[caesar1]
+- [Crypto](/crypto)
+  - [Attack at -3](/crypto/caesar1)
 - Web
   - p1
   - p2 with links
 
 
 ## Example writeup
+
 # Life of Pi
 
 **Category:** Crypto
