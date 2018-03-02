@@ -1,4 +1,3 @@
-
 # "description": "Caesar is back for more, this time with numbers! Can you figure out his <a href='shifty.txt'>message?</a>",
 # "hint": "The numbers and letters shift on different modulus."
 

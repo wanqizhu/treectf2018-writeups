@@ -1,4 +1,5 @@
 # parse the /db folder in the unzipped downloaded CTFD export
+import json
 
 peeps = json.load(open('teams.json'))['results']
 people = [(p['name'], p['email']) for p in peeps]

@@ -51,7 +51,7 @@ TreeCTF ran as part of [Treehacks 2018](https://treehacks.com) on Feb 17th, 2018
 
 > _problem_info_here_
 >
-> u
+> 
 >
 
 
@@ -60,8 +60,6 @@ TreeCTF ran as part of [Treehacks 2018](https://treehacks.com) on Feb 17th, 2018
 (TODO)
 
 ## Other write-ups and resources
-
-eu
 
 
 
