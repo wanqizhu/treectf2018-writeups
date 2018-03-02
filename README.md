@@ -11,7 +11,7 @@ TreeCTF ran as part of [Treehacks 2018](https://treehacks.com) on Feb 17th, 2018
   - [Eyaxx](crypto/Eyaxx)
   - [Life of Pi](crypto/lifeofpi)
   - [Shifty Tjljye](crypto/shifty)
-  - [Slide into dem DMs](crypto/Slide into dem DMs)
+  - [Slide into dem DMs](crypto/shared-rsa)
   - [Stove Ownership](crypto/Stove Ownership)
   - [Welcome to Rome](crypto/caesar2)
   - [oh-my-godel](crypto/oh-my-godel)
