@@ -1,0 +1,18 @@
+# Sneaky
+
+**category:** Forensics
+
+**description:** 
+
+**value:** 25
+
+
+## Write-up
+
+For sneaky.zip, we set all hidden files (.flagX.txt) to have no permission (chmod 000)
+
+All .flagX.txt have garbage, except .flag1729.txt. We can find this using grep or some other find command, looking for treeCTF
+
+## Flag
+
+treeCTF{sneaky?SNEAKY_sneaky!!}
