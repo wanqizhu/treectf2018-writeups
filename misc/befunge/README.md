@@ -1,12 +1,11 @@
-## InPUT nOT FOUnD - 80 (Misc) ##
-#### Problem by Wanqi Zhu
+## InPUT nOT FOUnD - 120 (Misc) ##
 Writeup by Wanqi Zhu
 
 
 
 ### Problem ###
 
-I'm befuddled by [befunge](http://ec2-52-35-36-1.us-west-2.compute.amazonaws.com/problem-static/misc/befunge/InPUTnOTFOUnD).
+I'm befuddled by [befunge](InPUTnOTFOUnD)
 
 ### Hint ###
 

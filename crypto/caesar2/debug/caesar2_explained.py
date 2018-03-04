@@ -1,3 +1,4 @@
+#!/usr/bin/python2
 import string
 
 s = "Welcome to Stanford! treeCTF{caesar_<3_#s_2}"
