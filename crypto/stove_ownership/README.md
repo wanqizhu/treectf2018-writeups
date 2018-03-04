@@ -43,7 +43,6 @@ NKVNKVNKVNKVNKVNK! IDF XSQCJM EOPZ QC ISFFXIE{UVNWOFGZF_QC_JNWFS}
 
 
 ## Write-up
-
 Each of the paragraphs - "A type of salt-cured pork," "An English philosopher, statesman, scientist, jurist, orator, and author (born 1561, died 1626)," and "Calvin and Hobbes and Pants are Overrated" - is a clue for the word BACON. The first paragraph is a [culinary description](https://en.wikipedia.org/wiki/Bacon) of bacon; the second paragraph is from the [biography of  Sir Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon); and the final paragraph is a reference to [these](http://www.pantsareoverrated.com/archive/2011/05/10/hobbes-and-bacon/) [lovely](http://www.pantsareoverrated.com/archive/2011/05/12/hobbes-and-bacon-002/) [comic](http://www.pantsareoverrated.com/archive/2011/10/11/hobbes-and-bacon-03-2/) [strips](http://www.pantsareoverrated.com/archive/2011/10/13/hobbes-and-bacon-04-2/). Furthermore, the title of the puzzle, 'Stove Ownership', is a reference to [this xkcd](https://xkcd.com/418/) about bacon.
 
 The Bacon cipher (invented by Sir Francis Bacon!) is a cipher that encodes 5-bit patterns in chunks of 5 symbols using any binary feature (italics, capitalization, color, etc.) For example, suppose the encoding is that a lowercase letter encodes a 0 and an uppercase letter encodes a 1. In this case, the 5-letter word bAcON encodes the message 01011.

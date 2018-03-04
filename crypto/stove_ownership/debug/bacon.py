@@ -87,3 +87,5 @@ def decode(ciphertext):
 if __name__ == '__main__':
     ciphertext = 'NKVNKVNKVNKVNKVNK! IDF XSQCJM EOPZ QC ISFFXIE{UVNWOFGZF_QC_JNWFS}'
     print(decode(ciphertext))
+    # => 'OMNOMNOMNOMNOMNOM! THE CRISPY FLAG IS TREECTF{KNOWLEDGE_IS_POWER}'
+    FLAG = 'TREECTF{KNOWLEDGE_IS_POWER}'

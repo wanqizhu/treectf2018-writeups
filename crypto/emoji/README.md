@@ -21,7 +21,6 @@ Have you heard the latest hits?
 Problem inspiration credits to Praetorian.
 
 ## Write-up
-
 At first glance, this seems to look like a [substitution cipher](https://en.wikipedia.org/wiki/Substitution_cipher). Indeed, it is. The song titles in the description provide the clues that `'o'->'😎'`, `'u'->'😔'`, and `'i'->'😈'`. Furthermore, the fact that all the song titles are in lowercase suggests that this will be a case-insensitive substitution cipher, and that the final answer should be all lowercase. We'll continue to operate in lowercase in this write-up.
 
 Given these vowels and some clever guessing, it's possible to reconstruct most of, if not all, of the flag. Additionally, there are techniques for [decoding substitution ciphers using frequency analysis](https://en.wikipedia.org/wiki/Frequency_analysis#Frequency_analysis_for_simple_substitution_ciphers), but they generally requires a larger ciphertext than provided here.
@@ -66,7 +65,6 @@ Applying this to the ciphertext yields the plaintext: 'the father of the emoji i
 Thus, the final flag is `treectf{emoji_genius}`.
 
 Lastly, we must give credit to Praetorian for this clever problem exploiting the induced ordering of emoji by their unicode values. One of our CTF authors (Sam) participated in a CTF run by Praetorian and shameless coopted the Emoji substitution cipher for TreeCTF.
-
 
 ## Additional Resources
 
