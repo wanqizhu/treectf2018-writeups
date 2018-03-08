@@ -11,7 +11,7 @@ TreeCTF ran as part of [Treehacks 2018](https://treehacks.com) on Feb 17th, 2018
   - [Slide into dem DMs](crypto/shared-rsa)
   - [Stove Ownership](crypto/stove_ownership)
   - [Welcome to Rome](crypto/caesar2)
-  - [oh-my-godel](TODO crypto/oh-my-godel)
+  - [oh-my-godel](crypto/oh_my_godel)
   - [🔥](crypto/emoji)
 - [Forensics](forensics)
   - [A Sky Full of Stars](forensics/sky)
@@ -25,8 +25,8 @@ TreeCTF ran as part of [Treehacks 2018](https://treehacks.com) on Feb 17th, 2018
   - [InPUT nOT FOUnD](misc/befunge)
   - [Steam Locomotive](misc/steam_locomotive)
 - [Pwn](pwn)
-  - [Craftmanship](pwn/Craftmanship) WIP
-  - [HowHigh](pwn/HowHigh) WIP
+  - [Craftmanship](pwn/Craftmanship)
+  - [HowHigh](pwn/HowHigh)]
   - [Never Give Source Code](pwn/Never%20Give%20Source%20Code) WIP
 - [Quest](quest)
   - [La Grande Poursuite](TODO quest/La%20Grande%20Poursuite)
