@@ -39,4 +39,4 @@ def decode(num):
 ```
 
 
-**flag:** treeCTF{welcome_to_cardinal.pie}
+**flag:** treeCTF{InC01empl3t3na3ss~}
