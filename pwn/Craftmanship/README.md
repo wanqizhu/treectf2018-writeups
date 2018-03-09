@@ -41,4 +41,4 @@ print payload
 ```
 
 
-**flag:** treeCTF{...}
+**flag:** treeCTF{m0Arrr3-thakjfn_jast-a-re3d}
